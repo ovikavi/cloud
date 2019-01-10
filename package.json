@@ -1,0 +1,19 @@
+{
+  "name": "webserviceserver",
+  "version": "1.0.0",
+  "description": "Cloud computing assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ovikavi@github.com/ovikavi/cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovikavi/cloud/issues"
+  },
+  "homepage": "https://github.com/ovikavi/cloud#readme"
+}
